@@ -1,7 +1,7 @@
 # ICT221_MiniDungeon
 
-Starting code for the MiniDungeon game.
+ELI MCARTHUR WAS HERE
 
-Some image files are provided in "resources" folder. You can use them in the GUI. Or you can choose your own image files.
+this is my finished code thankyou thankyou
 
-The image files located in "resources" folder can be simply referred to with the file name (without telling the path) in your Java code.
+i used my own images and stuff please and thankyoouuuu
